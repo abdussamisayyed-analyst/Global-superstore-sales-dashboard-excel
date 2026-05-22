@@ -21,7 +21,7 @@ This project is an interactive Global Superstore Sales Dashboard created in Exce
 - Conditional Formatting
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Superstore Dashboard.png)
 
 ## Files Included
 - Global Superstore Dashboard.xlsx
