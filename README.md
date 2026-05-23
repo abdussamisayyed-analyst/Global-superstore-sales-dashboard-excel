@@ -85,7 +85,7 @@ This improves user experience and enables drill-down analysis.
 
 # 📷 Dashboard Preview
 
-![Dashboard Preview](Superstore Dashboard.png)
+![Dashboard Preview](./Superstore%20Dashboard.png)
 
 ---
 
