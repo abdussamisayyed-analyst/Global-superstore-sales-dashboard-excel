@@ -129,7 +129,7 @@ Through this project, I improved my understanding of:
 
 # 👨‍💻 Author
 ABDUSSAMI SAYYED
-
+🔗 LinkedIn: https://www.linkedin.com/in/sayyed-abdussami-a9b893353/
 📧 Email: abdussamisayyed@gmail.com  
 🔗 GitHub: https://github.com/abdussamisayyed-analyst
 
